@@ -1,0 +1,14 @@
+
+Database Name - ecom_store
+
+customer link - localhost/sample/
+admin link - localhost/sample/admin_area/
+
+Admin Login:
+email - admin@admin.com
+pass - admin123
+
+
+Customer Login:
+email - sample@sample.com
+pass - customer1
